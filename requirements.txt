@@ -1,0 +1,4 @@
+pybaseball==2.2.7        # MLBデータ取得
+pandas==2.1.1            # データフレーム操作
+pyarrow==23.0.1          # Parquet 形式変換
+boto3>=1.29.7,<1.30      # AWS S3 アップロード
